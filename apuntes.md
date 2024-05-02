@@ -292,3 +292,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Costos directos: personal, herramientas, tiempo.
 - Costos indirectos: entrenamiento, mantenimiento, reportes.
 
+## ¿Qué pasa si no se hacen pruebas eficientes?
+- Baja confianza del cliente
+- Reputación afectada
+- Costos de correción hasta 100 veces mayores
+- Riesgos legales
