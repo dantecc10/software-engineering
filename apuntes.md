@@ -288,8 +288,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - ¿El diseño es accesible e inclusivo?
 
 # Pruebas
-
 ## Tipos de costos asociados a las pruebas
-- Costos directos: personal, herramientas, tiempo
-- Costos indirectos: entrenamiento, mantenimiento, reportes
+- Costos directos: personal, herramientas, tiempo.
+- Costos indirectos: entrenamiento, mantenimiento, reportes.
 
