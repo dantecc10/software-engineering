@@ -22,9 +22,10 @@ software.
 # Criterios de evaluación
 
 - Actividades 25%.
-- Tareas.
-- Examen.
-- Lecturas.
+- Tareas 15.
+- Examen 20.
+- Lectura 15s.
+Proyecto final 25
 - Asistencia y participación en clase.
 
 Entrega puntual de trabajos y lecturas.
@@ -285,4 +286,9 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - ¿Qué contexto (dispositivo, entorno) usa?
 - ¿Qué errores puede cometer y cómo prevenirlos?
 - ¿El diseño es accesible e inclusivo?
+
+# Pruebas
+## Tipos de costos asociados a las pruebas
+- Costos directos: personal, herramientas, tiempo
+- Costos indirectos: entrenamiento, mantenimiento, reportes
 
