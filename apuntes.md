@@ -97,8 +97,8 @@ Video: [La Ética en la Ingeniería de Software](https://www.youtube.com/watch?v
 
 ### ¿Qué es RUP?
 
-- UML
-- Diagrama de casos de uso (representa qué hace el usuario con el sistema)
+- UML.
+- Diagrama de casos de uso (representa qué hace el usuario con el sistema).
 
 ## Diagrama de casos de uso
 ![Ejemplo de diagrama de casos de uso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU9C-aeNqdEKUpDHGoPrm3SVPuAIyZm2kYgHKzL_qeIIHkHC-XTwjhB6W0f8-uyCGXrzJ-i7KNnwiemMljxNB_HhyphenhyphenaFJVJ9ejZP3LexYLjVG2MDB2rEX-Mqsj-hZaruxVOZKmnEv3ORhbe/w1200-h630-p-k-no-nu/diagrama-de-casos-de-uso-600.jpg "Diagrama de casos de uso")
