@@ -296,4 +296,4 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Baja confianza del cliente
 - Reputación afectada
 - Costos de correción hasta 100 veces mayores
-- Riesgos legales
+- Riesgos legales.
