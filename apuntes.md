@@ -295,5 +295,5 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 ## ¿Qué pasa si no se hacen pruebas eficientes?
 - Baja confianza del cliente
 - Reputación afectada
-- Costos de correción hasta 100 veces mayores
+- Costos de correción hasta 100 veces mayores.
 - Riesgos legales.
