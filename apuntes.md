@@ -297,3 +297,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Reputación afectada.
 - Costos de correción hasta 100 veces mayores.
 - Riesgos legales.
+
+## Mitos comunes
+"Probar es caro" vs. "No probar es mucho más caro".
+
+"El cliente encontrará los errores" vs. "Eso podría destruir la relación comercial".
