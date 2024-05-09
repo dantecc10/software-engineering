@@ -279,6 +279,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Controles de navegación.
 
 # Usabilidad
+
+## Preguntas para guiar el idseñ
 - ¿Qué tareas debe realizar el usuario?
 - ¿Qué contexto (dispositivo, entorno) usa?
 - ¿Qué errores puede cometer y cómo prevenirlos?
