@@ -302,3 +302,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 "Probar es caro" vs. "No probar es mucho más caro".
 
 "El cliente encontrará los errores" vs. "Eso podría destruir la relación comercial".
+
+## HERRAMEITNAS Y ESTRATEGIAS DE BAJO COSTO
+- Pruebas unitarias
+- Integración continua
+- Pruebas basadas en riesgo
