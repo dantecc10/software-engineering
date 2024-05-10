@@ -279,3 +279,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Controles de navegación.
 
 # Usabilidad
+- ¿Qué tareas debe realizar el usuario?
+- ¿Qué contexto (dispositivo, entorno) usa?
+- ¿Qué errores puede cometer y cómo prevenirlos?
+- ¿El diseño es accesible e inclusivo?
+
