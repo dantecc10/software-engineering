@@ -197,7 +197,7 @@ En un sistema de biblioteca digital-
 
 # Sistemas de navegación
 Permiten al usuario desplazarse dentro del sistema o sitio.
-Incluyen menús, enlaces, rutas de navegación y accesos directos
+Incluyen menús, enlaces, rutas de navegación y accesos directos.
 
 Ejemplo:
 - Migajas de pan: Inicio > Cursos > Ingeniería de Software > Unidad
