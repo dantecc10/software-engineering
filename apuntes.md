@@ -278,6 +278,4 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Fomrularios.
 - Controles de navegación.
 
-## Usabilidad
-
-
+# Usabilidad
