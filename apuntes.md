@@ -310,14 +310,14 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
 ## 
 
-- Error (mistake): Acción humana incorrecta que introduce defectos
-- Defecto (bug): Imperfección en código o diseño
-- Falla (failure): COmportamiento onccorrecto en ejecución
-- Problema (issue): Término general ara registrar incidentes
+- Error (mistake): Acción humana incorrecta que introduce defectos.
+- Defecto (bug): Imperfección en código o diseño.
+- Falla (failure): COmportamiento onccorrecto en ejecución.
+- Problema (issue): Término general ara registrar incidentes.
 
 ### Tipos de errores
-Sintaxis: Violaciones del lenguaje
-Lógicos: Mal razonamiento
-Diseño: Arquitectura inadecuada
-Integración: Problemas entre módulos
-Configuración: Parámetros erróneos
+Sintaxis: Violaciones del lenguaje.
+Lógicos: Mal razonamiento.
+Diseño: Arquitectura inadecuada.
+Integración: Problemas entre módulos.
+Configuración: Parámetros erróneos.
