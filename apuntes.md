@@ -316,8 +316,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Problema (issue): Término general ara registrar incidentes.
 
 ### Tipos de errores
-Sintaxis: Violaciones del lenguaje.
-Lógicos: Mal razonamiento.
-Diseño: Arquitectura inadecuada.
-Integración: Problemas entre módulos.
-Configuración: Parámetros erróneos.
+- Sintaxis: Violaciones del lenguaje.
+- Lógicos: Mal razonamiento.
+- Diseño: Arquitectura inadecuada.
+- Integración: Problemas entre módulos.
+- Configuración: Parámetros erróneos.
