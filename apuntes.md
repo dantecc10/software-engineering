@@ -211,7 +211,7 @@ Deben ser claros, consistentes y comprensibles.
 Mecanismos que permiten encontrar contenido específico mediante palaras clave,
 filtros o categorización
 
-En una tineda online
+En una tienda online
 
 - Búsqueda por nombre, categoría precio
 - Filtro: precio mínimo, máximo, disponibilidad, marca
