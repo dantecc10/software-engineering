@@ -221,18 +221,18 @@ Proceso de definir la estructura lógica para el almacenamiento de datos.
 Incluye identificación.
 
 ## Etapas del diseño de bases de datos
-- Recoleción de requerimientos
-- Modelo entidad-relación
-- Conversión al modelo relacional
-- Normalización
-- Implementación
+- Recoleción de requerimientos.
+- Modelo entidad-relación.
+- Conversión al modelo relacional.
+- Normalización.
+- Implementación.
 
 ## Diseño Conceptual (modelo ER)
 Es una representación gráfica abastracta de la información usando entidades,
 atributos y relaciones.
 
 Ejemplo:
-- Entidades: Alumno, Materia, Profesor, Calificación
+- Entidades: Alumno, Materia, Profesor, Calificación.
 
 ## Diseño lógico
 
