@@ -303,12 +303,12 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
 "El cliente encontrará los errores" vs. "Eso podría destruir la relación comercial".
 
-## HERRAMEITNAS Y ESTRATEGIAS DE BAJO COSTO
+## Herramientas y estrategias de bajo costo
 - Pruebas unitarias
 - Integración continua
 - Pruebas basadas en riesgo
 
-## 
+## Errores
 
 - Error (mistake): Acción humana incorrecta que introduce defectos.
 - Defecto (bug): Imperfección en código o diseño.
