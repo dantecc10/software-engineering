@@ -309,7 +309,6 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Pruebas basadas en riesgo
 
 ## Errores
-
 - Error (mistake): Acción humana incorrecta que introduce defectos.
 - Defecto (bug): Imperfección en código o diseño.
 - Falla (failure): COmportamiento onccorrecto en ejecución.
@@ -321,3 +320,10 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Diseño: Arquitectura inadecuada.
 - Integración: Problemas entre módulos.
 - Configuración: Parámetros erróneos.
+
+### Fallas comunes
+- Rendimiento: Respuesta lenta o bloqueos
+Seguridad: Vulnerabilidades explotados
+Usabilidad: Experiencia negativa del usuario
+COmpatibilidad: Fallos en diferentes entornos
+Concurrencia: Problemas multihilo
