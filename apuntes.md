@@ -115,8 +115,8 @@ Los elementos son:
 ![Límites del sistema](https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/817bab4c-19f1-44bd-a069-6afd6d03be18.png "Límites del sistema")
 
 
-Puede haber relaciones de inclusión (obligatorias para una acción) o
-extensión (opcionales).
+Puede haber relaciones de inclusión (obligatorias para una acción) o extensión
+(opcionales).
 
 CU=003
 Nombre=Consultar asistencias
