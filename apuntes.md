@@ -95,7 +95,8 @@ Video: [La Ética en la Ingeniería de Software](https://www.youtube.com/watch?v
 - ¿Qué pasa con las historias del usuario?
 - ¿Qué pasa con los casos de uso?
 
-¿Qué es RUP?
+### ¿Qué es RUP?
+
 - UML
 - Diagrama de casos de uso (representa qué hace el usuario con el sistema)
 
