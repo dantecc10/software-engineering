@@ -89,8 +89,6 @@ Video: [Historia de la Ingeniería de Software](https://www.youtube.com/watch?v=
 Video: [La Ética en la Ingeniería de Software](https://www.youtube.com/watch?v=mtyS2z3l_OU)
 
 
-
-
 # Requisitos del sistema (*ingeniería de requisitos del sistema*)
 ## Documento de requisitos
 
