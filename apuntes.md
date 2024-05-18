@@ -322,8 +322,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Configuración: Parámetros erróneos.
 
 ### Fallas comunes
-- Rendimiento: Respuesta lenta o bloqueos
-- Seguridad: Vulnerabilidades explotados
-- Usabilidad: Experiencia negativa del usuario
-- Compatibilidad: Fallos en diferentes entornos
-- Concurrencia: Problemas multihilo
+- Rendimiento: Respuesta lenta o bloqueos.
+- Seguridad: Vulnerabilidades explotados.
+- Usabilidad: Experiencia negativa del usuario.
+- Compatibilidad: Fallos en diferentes entornos.
+- Concurrencia: Problemas multihilo.
