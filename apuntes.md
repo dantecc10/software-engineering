@@ -29,8 +29,7 @@ software.
 
 Entrega puntual de trabajos y lecturas.
 
-Bibliografía base: Sommerville I (2015). Ingeniería de Software, 10a ed.
-Pressman R
+Bibliografía base: Sommerville I (2015). Ingeniería de Software, 10a ed. Pressman. R.
 
 # Conceptos básicos de Ingeniería de Software
 
