@@ -239,8 +239,7 @@ Ejemplo:
 ## Diseño lógico
 
 Transforma el modelo ER en tablas relacionales que se implementarán en una
-base de datos.
-(Se crean tablas)
+base de datos (se crean tablas).
 
 ## Normalización
 
