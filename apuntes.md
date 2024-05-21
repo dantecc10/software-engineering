@@ -264,7 +264,8 @@ de datos.
 UX: sensación general del usuario al usar el sistema (eficacia, satisfacción).
 Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
-## Principios de una Buena IU
+## Principios de una buena IU
+
 - Claridad.
 - Consistencia.
 - Retroalimentación inmediata.
@@ -272,6 +273,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Flexibilidad y eficiencia.
 
 ## Elementos clave para un buen diseño de IU
+
 - Layout (disposición visual).
 - Tipografía.
 - Colores y contraste.
