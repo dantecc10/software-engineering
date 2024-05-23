@@ -270,3 +270,11 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Retroalimentación inmediata.
 - Prevención de errores.
 - Flexibilidad y eficiencia.
+
+## Elementos clave para un buen diseño de IU
+- Layout.
+- Tipografía.
+- Colores y contraste.
+- Íconos y simbología.
+- Fomrularios.
+- Controles de navegación.
