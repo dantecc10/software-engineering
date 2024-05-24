@@ -52,10 +52,10 @@ Ejemplo: Sistemas bancarios, apps móviles.
 
 # Dominios de Aplicación de Software
 
-- Sistemas embebidos
-- Aplicaciones empresariales
-- Software científico
-- Sistemas de tiempo real
+- Sistemas embebidos.
+- Aplicaciones empresariales.
+- Software científico.
+- Sistemas de tiempo real.
 
 # Software Heredado y Web/Apps
 
