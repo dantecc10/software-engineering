@@ -39,12 +39,12 @@ Objetivo: construir software confiable, eficiente, mantenible.
 
 ## ¿Por qué es necesario aplicar ingeniería al software?
 
-- El software es complejo y creciente
-- El software tiene impacto crítico
-- El software cambia constantemente
-- Permite gestionar recursos limitados
-- Calidad, seguridad y confiabilidad
-- Colaboración de equipos multidisplinarios
+- El software es complejo y creciente.
+- El software tiene impacto crítico.
+- El software cambia constantemente.
+- Permite gestionar recursos limitados.
+- Calidad, seguridad y confiabilidad.
+- Colaboración de equipos multidisplinarios.
 
 Conjunto de programas, datos y documentación.
 Componentes: código fuente, documentación, manuales.
