@@ -35,7 +35,6 @@ Pressman R
 # Conceptos básicos de Ingeniería de Software
 
 Ingeniería de Software: Disciplina de desarrollo sistemático de software.
-
 Objetivo: construir software confiable, eficiente, mantenible.
 
 ## ¿Por qué es necesario aplicar ingeniería al software?
