@@ -21,10 +21,10 @@ software.
 
 # Criterios de evaluación
 
-- Actividades 25%
-- Tareas
-- Examen
-- Lecturas
+- Actividades 25%.
+- Tareas.
+- Examen.
+- Lecturas.
 
 Asistencia y participación en clase.
 Entrega puntual de trabajos y lecturas.
