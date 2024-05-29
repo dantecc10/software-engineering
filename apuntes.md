@@ -12,12 +12,12 @@ software.
 
 # Contenido General del Curso
 
-- Introducción a la Ingeniería de Software
-- Modelos de Proceso de Desarrollo
-- Ingeniería de Requerimientos
-- Diseño e Implementación de Software
-- Pruebas y Mantenimiento
-- Herramientas CASE
+- Introducción a la Ingeniería de Software.
+- Modelos de Proceso de Desarrollo.
+- Ingeniería de Requerimientos.
+- Diseño e Implementación de Software.
+- Pruebas y Mantenimiento.
+- Herramientas CASE.
 
 # Criterios de evaluación
 
