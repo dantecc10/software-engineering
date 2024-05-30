@@ -5,7 +5,7 @@ de calidad.
 - Aplicación de metodologías, modelos de proceso y técnicas de ingeniería de
 software.
 
-¿Por qué es importante aprender Ingeniería de Software?
+## ¿Por qué es importante aprender Ingeniería de Software?
 
 - Desarrollo de software con calidad profesional.
 - Reducción.
