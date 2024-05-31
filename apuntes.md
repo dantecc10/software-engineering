@@ -252,7 +252,7 @@ Si en una tabla "Alumno" hay múltiples columnas como materia_1, materia_2, etc.
 debe separarse esa información en una tabla aparte llamada inscripciones.
 
 Evitar inconsistencias (ej. cambiar el nombre de una materia en múltiples 
-columnas)
+columnas).
 
 ## Implementación
 
