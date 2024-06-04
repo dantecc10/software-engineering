@@ -263,7 +263,7 @@ de datos.
 ## ¿Qué es la experiencia de usuario? (UX vs UI)
 
 UX: sensación general del usuario al usar el sistema (eficacia, satisfacción).
-Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada
+Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
 ## Principios de una Buena IU
 - Claridad Consistencia
