@@ -21,15 +21,15 @@ software.
 
 # Criterios de evaluación
 
-Actividades 25%
-Tareas
-Examen
-Lecturas
+- Actividades 25%
+- Tareas
+- Examen
+- Lecturas
 
 Asistencia y participación en clase.
 Entrega puntual de trabajos y lecturas.
 
-Bibliografía base:Sommerville I (2015). Ingeniería de Software, 10a ed.
+Bibliografía base: Sommerville I (2015). Ingeniería de Software, 10a ed.
 Pressman R
 
 # Conceptos básicos de Ingeniería de Software
