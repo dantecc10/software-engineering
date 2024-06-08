@@ -122,7 +122,7 @@ Puede haber relaciones de inclusión (obligatorias para una acción) o
 extensión (opcionales).
 
 CU=003
-Nombre=COnsultar asistencias
+Nombre=Consultar asistencias
 Actor=Personal académico
 Precondición=Registrar usuario, Registrar asistencia
 Descripción =	1.- El docente registra usuario/contraseña en el sistema
