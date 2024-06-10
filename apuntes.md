@@ -64,7 +64,8 @@ Software heredado: antiguo pero crítico.
 Web/Apps: modernas, dinámicas y móviles.
 Ejemplo: Sistemas COBOL en bancos vs. apps de delivery.
 
-El software heredado (*legacy software*) son sistemas antiguos que siguen siendo utilizados porque:
+El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
+utilizados porque:
 
 - son sistemas antiguos que siguen siendo utilizados porque
 - son críticos para la operación
