@@ -247,7 +247,7 @@ o reestructurándolas en formas normales (1FN, 2FN, 3FN, ...)
 Si en una tabla "Alumno" hay múltiples columnas como materia_1, materia_2, etc.,
 debe separarse esa información en una tabla aparte llamada
 inscripciones.
-Evitar inconsistencias (ej. cambiar el nombde de una materia en múltiples 
+Evitar inconsistencias (ej. cambiar el nombre de una materia en múltiples 
 columnas)
 
 ## Implementación
