@@ -255,7 +255,6 @@ Traducción del diseño lógico a código SQL en un sistema de gestión de bases
 de datos.
 
 # ¿Qué es la interfaz de usuario?
-
 ## ¿Qué es la experiencia de usuario? (UX vs UI)
 
 UX: sensación general del usuario al usar el sistema (eficacia, satisfacción).
