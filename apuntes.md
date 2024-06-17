@@ -6,7 +6,7 @@
 ¿Por qué es importante aprender Ingeniería de Software?
 
 - Desarrollo de software con calidad profesional
-  Reducción
+- Reducción
 
 # Contenido General del Curso
 
