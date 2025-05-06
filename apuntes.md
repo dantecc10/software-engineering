@@ -344,7 +344,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 ## Conclusión
 
 - Prevenir errores es más eficiente que corregirlos.
-- El asegurameitno de calidad es una inversión estratégica
+- El aseguramiento de calidad es una inversión estratégica
 - COmprender las fallas permite diseñar software con mayor eficiencia
 
 ## Lecutras recomendadas
