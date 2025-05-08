@@ -340,3 +340,16 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Daño a la reputación de la empresa.
 - Pérdida de clientes.
 - Posibles consecuencias legales.
+
+## Conclusión
+
+Prevenir errores es más eficiente que corregirlos.
+El asegurameitno de calidad es una inversión estratégica
+COmprender las fallas permite diseñar software con mayor eficiencia
+
+## Lecutras recomendadas
+'Software Testing: Principles and Practices' - Desikan % Ramesh
+The Art o
+
+### Pregunta de reflexión
+- ¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?
