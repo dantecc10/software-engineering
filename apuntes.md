@@ -336,7 +336,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Documentación deficiente
 
 ## Impacto económico
-- Corregir en la producción cuesta 10-100 veces más
-- Daño a la reputación de la empresa
-- Pérdida de clientes
-- Posibles consecuencias legales
+- Corregir en la producción cuesta 10-100 veces más.
+- Daño a la reputación de la empresa.
+- Pérdida de clientes.
+- Posibles consecuencias legales.
