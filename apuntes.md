@@ -334,3 +334,9 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Código inconsistente o sin revisión.
 - Ambigüedad en los requisitos
 - Documentación deficiente
+
+## Impacto económico
+- Corregir en la producción cuesta 10-100 veces más
+Daño a la reputación de la empresa
+Pérdida de clientes
+- Posibles consecuencias legales
