@@ -330,7 +330,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
 ## Problemas estructurales
 - Falta de pruebas automatizadas.
-- Casos límite no considerados
+- Casos límite no considerados.
 - Código inconsistente o sin revisión
 - Ambigüedad en los requisitos
 - Documentación deficiente
