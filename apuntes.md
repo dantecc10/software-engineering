@@ -328,6 +328,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Compatibilidad: Fallos en diferentes entornos.
 - Concurrencia: Problemas multihilo.
 
+## Problemas estructurales
 - Falta de pruebas automatizadas
 - Casos límite no considerados
 - Código inconsistente o sin revisión
