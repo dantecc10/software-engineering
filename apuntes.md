@@ -314,14 +314,14 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Falla (failure): COmportamiento onccorrecto en ejecución.
 - Problema (issue): Término general ara registrar incidentes.
 
-### Tipos de errores
+## Tipos de errores
 - Sintaxis: Violaciones del lenguaje.
 - Lógicos: Mal razonamiento.
 - Diseño: Arquitectura inadecuada.
 - Integración: Problemas entre módulos.
 - Configuración: Parámetros erróneos.
 
-### Fallas comunes
+## Fallas comunes
 - Rendimiento: Respuesta lenta o bloqueos.
 - Seguridad: Vulnerabilidades explotados.
 - Usabilidad: Experiencia negativa del usuario.
