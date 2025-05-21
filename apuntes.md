@@ -348,8 +348,8 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - COmprender las fallas permite diseñar software con mayor eficiencia
 
 ## Lecutras recomendadas
-'Software Testing: Principles and Practices' - Desikan % Ramesh
-The Art o
+- 'Software Testing: Principles and Practices' - Desikan & Ramesh
+- "The Art of"
 
 ### Pregunta de reflexión
 - ¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?
