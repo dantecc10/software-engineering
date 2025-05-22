@@ -352,4 +352,4 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - "The Art of"
 
 ### Pregunta de reflexión
-- ¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?
+- "¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?"
