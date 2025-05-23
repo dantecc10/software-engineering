@@ -345,7 +345,7 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 
 - Prevenir errores es más eficiente que corregirlos.
 - El aseguramiento de calidad es una inversión estratégica.
-- COmprender las fallas permite diseñar software con mayor eficiencia
+- Comprender las fallas permite diseñar software con mayor eficiencia
 
 ## Lecutras recomendadas
 - 'Software Testing: Principles and Practices' - Desikan & Ramesh
