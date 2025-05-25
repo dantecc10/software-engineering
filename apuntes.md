@@ -348,8 +348,47 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - Comprender las fallas permite diseñar software con mayor eficiencia.
 
 ## Lecutras recomendadas
-- 'Software Testing: Principles and Practices' - Desikan & Ramesh
+- 'Software Testing: Principles and Practices' - Desikan & Ramesh.
 - "The Art of"
 
 ### Pregunta de reflexión
 - "¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?"
+
+### Cuestionario
+1.- ¿Cuál de los siguientes costos no está asociado a las pruebas?
+a) Herramientas
+b) Capacitación
+c) Costos legales (x)
+d) Ambientes
+
+2.- ¿Cuál es un beneficio de las pruebas tempranas?
+a) Menos usuarios beta
+b) Menos fallas de hardware
+c) Prevención de defectos (x)
+d) Más personal
+
+3.- ¿Qué provocó la pérdida del Mars Climate Orbiter?
+a Malware
+b Error lógico
+c Unidades erróneas (x)
+d Memoria
+
+4.- ¿Qué afirmación es falsa?
+a) Automatización posible
+b) Probar eleva costos (x)
+c) Errores costosos
+d) Pruebas mejoran entregan.
+
+
+5.- ¿Qué herramienta ofrece?
+x) Automatización
+
+
+###¿Qué porcentaje de los proyectos de software fallan por problemas en los requerimientos?
+
+Entre el 60 y el 80 por ciento de los proyectos de software fallan total o parcialmente debido a problemas relacionados con los requerimientos.
+
+- Requerimientos incompletos o cambiantes sin control
+- Falta de entendimiento claro entre usuarios y desarrolladores
+- Documentación ambigua o contradictoria
+- Ausencia de validación constante con el cliente.
