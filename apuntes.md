@@ -388,7 +388,7 @@ x) Automatización
 
 Entre el 60 y el 80 por ciento de los proyectos de software fallan total o parcialmente debido a problemas relacionados con los requerimientos.
 
-- Requerimientos incompletos o cambiantes sin control
-- Falta de entendimiento claro entre usuarios y desarrolladores
-- Documentación ambigua o contradictoria
+- Requerimientos incompletos o cambiantes sin control.
+- Falta de entendimiento claro entre usuarios y desarrolladores.
+- Documentación ambigua o contradictoria.
 - Ausencia de validación constante con el cliente.
