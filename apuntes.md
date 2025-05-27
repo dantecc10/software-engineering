@@ -355,33 +355,34 @@ Ejemplo: una app bancaria clara y rápida = buena UX + IU bien diseñada.
 - "¿Qué pasaría con el prestigio de tu empresa si un cliente detecta un error crítico antes que tú?"
 
 ### Cuestionario
+
 1.- ¿Cuál de los siguientes costos no está asociado a las pruebas?
-a) Herramientas
-b) Capacitación
-c) Costos legales (x)
-d) Ambientes
+a) Herramientas.
+b) Capacitación.
+c) Costos legales. (x)
+d) Ambientes.
 
 2.- ¿Cuál es un beneficio de las pruebas tempranas?
-a) Menos usuarios beta
-b) Menos fallas de hardware
-c) Prevención de defectos (x)
-d) Más personal
+a) Menos usuarios beta.
+b) Menos fallas de hardware.
+c) Prevención de defectos. (x)
+d) Más personal.
 
 3.- ¿Qué provocó la pérdida del Mars Climate Orbiter?
-a Malware
-b Error lógico
-c Unidades erróneas (x)
-d Memoria
+a Malware.
+b Error lógico.
+c Unidades erróneas. (x)
+d Memoria.
 
 4.- ¿Qué afirmación es falsa?
-a) Automatización posible
-b) Probar eleva costos (x)
-c) Errores costosos
+a) Automatización posible.
+b) Probar eleva costos. (x)
+c) Errores costosos.
 d) Pruebas mejoran entregan.
 
 
 5.- ¿Qué herramienta ofrece?
-x) Automatización
+x) Automatización.
 
 
 ###¿Qué porcentaje de los proyectos de software fallan por problemas en los requerimientos?
