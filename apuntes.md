@@ -380,7 +380,6 @@ b) Probar eleva costos. (x)
 c) Errores costosos.
 d) Pruebas mejoran entregan.
 
-
 5.- ¿Qué herramienta ofrece?
 x) Automatización.
 
