@@ -385,7 +385,7 @@ x) Automatización.
 
 ###¿Qué porcentaje de los proyectos de software fallan por problemas en los requerimientos?
 
-Entre el 60 y el 80 por ciento de los proyectos de software fallan total o parcialmente debido a problemas relacionados con los requerimientos.
+Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de software fallan total o parcialmente debido a problemas relacionados con los requerimientos.
 
 - Requerimientos incompletos o cambiantes sin control.
 - Falta de entendimiento claro entre usuarios y desarrolladores.
