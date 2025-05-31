@@ -383,7 +383,7 @@ d) Pruebas mejoran entregan.
 5.- ¿Qué herramienta ofrece?
 x) Automatización.
 
-###¿Qué porcentaje de los proyectos de software fallan por problemas en los requerimientos?
+### ¿Qué porcentaje de los proyectos de software fallan por problemas en los requerimientos?
 
 Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de software fallan total o parcialmente debido a problemas relacionados con los requerimientos.
 
