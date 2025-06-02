@@ -20,8 +20,8 @@ software.
 - Herramientas CASE.
 
 # Criterios de evaluación
-| # Criterios de evaluación |
---------------
+| Criterios de evaluación |
+|---|
 | Actividades | 25% |
 | Tareas | 15% |
 | Examen | 20% |
