@@ -20,14 +20,15 @@ software.
 - Herramientas CASE.
 
 # Criterios de evaluación
-| Criterios de evaluación |
-|---|
+| Criterios de evaluación | |
+|---|---|
 | Actividades | 25% |
 | Tareas | 15% |
 | Examen | 20% |
 | Lecturas | 15% |
 | Proyecto final | 25% |
-| Asistencia y participación en clase |
+
+Asistencia y participación en clase
 
 Entrega puntual de trabajos y lecturas.
 
