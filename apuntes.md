@@ -1,0 +1,8 @@
+
+# Objetivos de la clase de Ingeniería de Software
+
+- Formar competencias para diseñar, desarrollar y gestionar proyectos de software de calidad.
+- Aplicación de metodologías, modelos de proceso y técnicas de ingeniería de software.
+
+
+¿Por qué es importante aprender Ingeniería de Software?
