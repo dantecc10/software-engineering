@@ -71,11 +71,13 @@ El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
 - son sistemas antiguos que siguen siendo utilizados porque
 - son críticos para la operación
 - son costosos o arriesgados de reemplazar
-- Nadie conoce completamente su funcionamiento
+- nadie conoce completamente su funcionamiento
 
 ### ¿Qué harías si heredaras un sistema crítico que nadie entiende, pero que no puede detenerse?
 
 
 # Historia de la Ingeniería de Software
 Video: [Historia de la Ingeniería de Software](https://www.youtube.com/watch?v=VTyO4dAEbIg)
+
+Video: [La Ética en la Ingeniería del Software](https://www.youtube.com/watch?v=mtyS2z3l_OU)
 
