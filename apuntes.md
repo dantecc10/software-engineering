@@ -47,3 +47,16 @@ Objetivo: construir software confiable, eficiente, mantenible.
 - Permite gestionar recursos limitados
 - Calidad, seguridad y confiabilidad
 - Colaboración de equipos multidisplinarios
+
+
+Conjunto de programas, datos y documentación.
+Componentes: código fuente, documentación, manuales.
+Ejemplo: Sistemas bancarios, apps móviles.
+
+
+# Dominios de Aplicación de Software
+
+- Sistemas embebidos
+- Aplicaciones empresariales
+- Software científico
+- Sistemas de tiempo real
