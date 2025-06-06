@@ -27,10 +27,8 @@ software.
 | Examen | 20% |
 | Lecturas | 15% |
 | Proyecto final | 25% |
-
-Asistencia y participación en clase
-
-Entrega puntual de trabajos y lecturas.
+| Asistencia y participación en clase | |
+| Entrega puntual de trabajos y lecturas | |
 
 Bibliografía base: Sommerville I (2015). Ingeniería de Software, 10a ed. Pressman. R.
 
