@@ -60,3 +60,15 @@ Ejemplo: Sistemas bancarios, apps móviles.
 - Aplicaciones empresariales
 - Software científico
 - Sistemas de tiempo real
+
+# Software Heredado y Web/Apps
+
+Software heredado: antiguo pero crítico.
+Web/Apps: modernas, dinámicas y móviles.
+Ejemplo: Sistemas COBOL en bancos vs. apps de delivery.
+
+El software heredado (*legacy software*) son sistemas antiguos que siguen siendo utilizados porque:
+- son sistemas antiguos que siguen siendo utilizados porque
+- son críticos para la operación
+- son costosos o arriesgados de reemplazar
+- Nadie conoce completamente su funcionamiento
