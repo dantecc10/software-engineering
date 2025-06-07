@@ -391,3 +391,5 @@ Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de so
 - Falta de entendimiento claro entre usuarios y desarrolladores.
 - Documentación ambigua o contradictoria.
 - Ausencia de validación constante con el cliente.
+
+### ¿Por qué sigue habiendo software defectuoso a pesar de tantos avences tecnológicos y metodológicos?
