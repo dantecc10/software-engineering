@@ -394,8 +394,9 @@ Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de so
 
 ### ¿Por qué sigue habiendo software defectuoso a pesar de tantos avances tecnológicos y metodológicos?
 
-- Requerimientos mal definidos
-- Pruebas insuficientes o mal planificadas
-- Mala gestión de confiruación y versiones
-- Presión de entrega y fechas políticas
-- Falta de cultura de calidad
+- Requerimientos mal definidos.
+- Pruebas insuficientes o mal planificadas.
+- Mala gestión de confiruación y versiones.
+- Presión de entrega y fechas políticas.
+- Falta de cultura de calidad.
+
