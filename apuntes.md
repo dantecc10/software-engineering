@@ -74,10 +74,12 @@ El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
 | Reto                  | Explicación | Ejemplo |
 | --------------------- | ------------ | ------- |
 | Tecnología Obsoleta  | Lenguajes, plataformas o hardware ya no soportados. | Sistemas COBOL en bancos.        |
-| Falta de documentación | No existen especificaciones completas o están desactualizadas | Código difícil de entender para nuevos ingenieros. |
-| Conocimiento limitado | Los desarrolladores originales ya no están disponibles | Dificultad para hacer modificaciones seguras |
-| Alta dependencia operativa | El sistema es crítico y no puede faltar | Sistema de control de tráfico aéreo |
-| Lanzamiento costoso | Cada cambio requiere esfuerzo extra | Cambios pequeños implican mucho trabajo|
+| Falta de documentación | No existen especificaciones completas o están desactualizadas. | Código difícil de entender para nuevos ingenieros. |
+| Conocimiento limitado | Los desarrolladores originales ya no están disponibles. | Dificultad para hacer modificaciones seguras |
+| Alta dependencia operativa | El sistema es crítico y no puede faltar. | Sistema de control de tráfico aéreo |
+| Mantenimiento costoso | Cada cambio requiere esfuerzo extra. | Cambios pequeños implican mucho trabajo|
+| Compatibilidad | No es compatible con nuevas plataformas o normativas. | Integración con servicios web modernos |
+| Riesgo de seguridad | Vulnerabilidades no parchadas | Falta de cifrado moderno o controles de acceso actuales |
 
 # Historia de la Ingeniería de Software
 
