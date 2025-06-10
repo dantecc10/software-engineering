@@ -1,16 +1,15 @@
-
 # Objetivos de la clase de Ingeniería de Software
 
 - Formar competencias para diseñar, desarrollar y gestionar proyectos de software de calidad.
 - Aplicación de metodologías, modelos de proceso y técnicas de ingeniería de software.
 
-
 ¿Por qué es importante aprender Ingeniería de Software?
-- Desarrollo de software con calidad profesional
-Reducción
 
+- Desarrollo de software con calidad profesional
+  Reducción
 
 # Contenido General del Curso
+
 - Introducción a la Ingeniería de Software
 - Modelos de Proceso de Desarrollo
 - Ingeniería de Requerimientos
@@ -25,10 +24,8 @@ Tareas
 Examen
 Lecturas
 
-
 Asistencia y participación en clase.
 Entrega puntual de trabajos y lecturas.
-
 
 Bibliografía base:Sommerville I (2015). Ingeniería de Software, 10a ed.
 Pressman R
@@ -48,11 +45,9 @@ Objetivo: construir software confiable, eficiente, mantenible.
 - Calidad, seguridad y confiabilidad
 - Colaboración de equipos multidisplinarios
 
-
 Conjunto de programas, datos y documentación.
 Componentes: código fuente, documentación, manuales.
 Ejemplo: Sistemas bancarios, apps móviles.
-
 
 # Dominios de Aplicación de Software
 
@@ -68,6 +63,7 @@ Web/Apps: modernas, dinámicas y móviles.
 Ejemplo: Sistemas COBOL en bancos vs. apps de delivery.
 
 El software heredado (*legacy software*) son sistemas antiguos que siguen siendo utilizados porque:
+
 - son sistemas antiguos que siguen siendo utilizados porque
 - son críticos para la operación
 - son costosos o arriesgados de reemplazar
@@ -75,9 +71,16 @@ El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
 
 ### ¿Qué harías si heredaras un sistema crítico que nadie entiende, pero que no puede detenerse?
 
+| Reto                  | Explicación | Ejemplo |
+| --------------------- | ------------ | ------- |
+| Tecnología Obsoleta  | Lenguajes, plataformas o hardware ya no soportados. | Sistemas COBOL en bancos.        |
+| Falta de documentación | No existen especificaciones completas o están desactualizadas | Código difícil de entender para nuevos ingenieros. |
+| Conocimiento limitado | Los desarrolladores originales ya no están disponibles | Dificultad para hacer modificaciones seguras |
+| Alta dependencia operativa | El sistema es crítico y no puede faltar | Sistema de control de tráfico aéreo |
+| Lanzamiento costoso | Cada cambio requiere esfuerzo extra | Cambios pequeños implican mucho trabajo|
 
 # Historia de la Ingeniería de Software
+
 Video: [Historia de la Ingeniería de Software](https://www.youtube.com/watch?v=VTyO4dAEbIg)
 
-Video: [La Ética en la Ingeniería del Software](https://www.youtube.com/watch?v=mtyS2z3l_OU)
-
+Video: [La Ética en la Ingeniería de Software](https://www.youtube.com/watch?v=mtyS2z3l_OU)
