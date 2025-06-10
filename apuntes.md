@@ -73,11 +73,11 @@ El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
 
 | Reto                  | Explicación | Ejemplo |
 | --------------------- | ------------ | ------- |
-| Tecnología Obsoleta  | Lenguajes, plataformas o hardware ya no soportados. | Sistemas COBOL en bancos.        |
-| Falta de documentación | No existen especificaciones completas o están desactualizadas. | Código difícil de entender para nuevos ingenieros. |
+| Tecnología Obsoleta  | Lenguajes, plataformas o hardware ya no soportados. | Sistemas COBOL en bancos |
+| Falta de documentación | No existen especificaciones completas o están desactualizadas. | Código difícil de entender para nuevos ingenieros |
 | Conocimiento limitado | Los desarrolladores originales ya no están disponibles. | Dificultad para hacer modificaciones seguras |
 | Alta dependencia operativa | El sistema es crítico y no puede faltar. | Sistema de control de tráfico aéreo |
-| Mantenimiento costoso | Cada cambio requiere esfuerzo extra. | Cambios pequeños implican mucho trabajo|
+| Mantenimiento costoso | Cada cambio requiere esfuerzo extra. | Cambios pequeños implican mucho trabajo |
 | Compatibilidad | No es compatible con nuevas plataformas o normativas. | Integración con servicios web modernos |
 | Riesgo de seguridad | Vulnerabilidades no parchadas | Falta de cifrado moderno o controles de acceso actuales |
 
@@ -86,3 +86,49 @@ El software heredado (*legacy software*) son sistemas antiguos que siguen siendo
 Video: [Historia de la Ingeniería de Software](https://www.youtube.com/watch?v=VTyO4dAEbIg)
 
 Video: [La Ética en la Ingeniería de Software](https://www.youtube.com/watch?v=mtyS2z3l_OU)
+
+
+
+
+# Requisitos del sistema (*ingeniería de requisitos del sistema*)
+## Documento de requisitos
+
+- ¿Qué pasa con las historias del usuario?
+- ¿Qué pasa con los casos de uso?
+
+¿Qué es RUP?
+- UML
+- Diagrama de casos de uso (representa qué hace el usuario con el sistema)
+
+## Diagrama de casos de uso
+![Ejemplo de diagrama de casos de uso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU9C-aeNqdEKUpDHGoPrm3SVPuAIyZm2kYgHKzL_qeIIHkHC-XTwjhB6W0f8-uyCGXrzJ-i7KNnwiemMljxNB_HhyphenhyphenaFJVJ9ejZP3LexYLjVG2MDB2rEX-Mqsj-hZaruxVOZKmnEv3ORhbe/w1200-h630-p-k-no-nu/diagrama-de-casos-de-uso-600.jpg "Diagrama de casos de uso")
+
+
+Los elementos son:
+- Actor
+![Actor](https://c0.klipartz.com/pngpicture/878/158/gratis-png-palo-humano-uso-caso-diagrama-simbolo-computadora-iconos-actor-actor.png "Actor")
+- Relaciones
+![Relación](https://geometriamagicomundodelorigami.wordpress.com/wp-content/uploads/2016/12/linea-recta.jpg?w=840 "Relación")
+- Casos de uso
+![Caso de uso](https://images.vexels.com/media/users/3/139183/isolated/preview/e81136ff89d964e1b8e8e4f7ff63d4cf-elipse.png "Caso de uso")
+- Sistema
+![Límites del sistema](https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/817bab4c-19f1-44bd-a069-6afd6d03be18.png "Límites del sistema")
+
+
+Puede haber relaciones de inclusión (obligatorias para una acción) o extensión (opcionales).
+
+CU=003
+Nombre=COnsultar asistencias
+Actor=Personal académico
+Precondición=Registrar usuario, Registrar asistencia
+Descripción =	1.- El docente registra usuario/contraseña en el sistema
+		2.- El sistema verifica que usuario/contraseña existan en el sistema
+		3.- El sistema muestra cursos
+		4.- El docente selecciona un curso a revisar
+		5.- El docente muestra menú de consulta (por día o por fecha espefícica)
+		6.- El docente selecciona tipo de consulta
+		7.- El sistema muestra las asistencias de los alumnos
+Excepción=	2.1.- El sistema envía un mensaje de error
+		6.1.- No se seleccionó nada
+		7.1.- No hubo asistencia
+
