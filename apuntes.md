@@ -400,3 +400,9 @@ Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de so
 - Presión de entrega y fechas políticas.
 - Falta de cultura de calidad.
 
+## Puntos importantes para prevenir el deterioro de la calidad
+- Involucrar a los usuarios desde el levantamiento de requerimientos.
+- Implementar pruebas automatizadas y estrategias de prueba continua.
+- Adoptar herramientas de integración y entrega continua (CI/CD).
+- Formar una cultura de mejora continua y revisiones cruzada.
+- Establecer políticas de control de versiones y configuración.
