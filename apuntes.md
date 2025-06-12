@@ -154,3 +154,33 @@ Define la estructura general del sistema.
 Incluye patrones como MVC, cliente-servidor, microservicios.
 
 Ejemplo: separar frontend, backend, y base de datos.
+
+## Diseño de alto nivel (modular)
+
+Divide el sistema en módulos o componentes.
+Define responsabilidades, entradas y salidas
+
+Ejemplo: Módulo de autenticación, módulo de pagos, etc.
+
+## Diseño detallado
+
+Define estructuras internas, algoritmos y clases.
+Incluye diagramas de clases, estructuras de datos.
+
+Ejemplo: Diagrama UML de clases para una app de reservas.
+
+## Diseño de interfaz de usuario
+
+Define la experiencia visual del usuario.
+Utiliza wireframes, mockups, guías de estilo.
+
+Ejemplo: pantalla de login con validación de campos.
+
+## Diseño de base de datos
+
+Define la estructura lógica de almacenamiento.
+Utiliza modelos de entidad-relación, normalización.
+
+Ejemplo: Tabla de usuarios, reservas, clases.
+
+
