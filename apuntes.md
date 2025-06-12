@@ -132,3 +132,25 @@ Excepción=	2.1.- El sistema envía un mensaje de error
 		6.1.- No se seleccionó nada
 		7.1.- No hubo asistencia
 
+# ¿Qué es el diseño del sistem?
+Es la fase donde se define cómo fucionará el sistema
+
+## ¿Por qué es importante?
+- Facilita la comprensión y mantenimiento del software
+- Reduce errores y trabajo en etapas posteriores
+- Permite la reutilización de componentenes
+- Mejora la calidad del producto final
+
+## Tipos de diseño
+Diseño arquitectónico
+Diseño de alto nivel (modular)
+Diseño detallado (estructural)
+Diseño de interfaz de usuario
+Diseño de bases de datos
+
+
+## Diseño arquitectónico
+Define la estructura general del sistema.
+Incluye patrones como MVC, cliente-servidor, microservicios.
+
+Ejemplo: separar frontend, backend, y base de datos.
