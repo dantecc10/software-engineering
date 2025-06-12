@@ -406,3 +406,7 @@ Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de so
 - Adoptar herramientas de integración y entrega continua (CI/CD).
 - Formar una cultura de mejora continua y revisiones cruzada.
 - Establecer políticas de control de versiones y configuración.
+
+### Considera...
+que la calidad no es una fase, es una cultura.
+- Cada práctica contribuye a construir software robusto, mantenible y alineado con las necesidades del usuario.
