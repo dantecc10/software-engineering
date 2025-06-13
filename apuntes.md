@@ -410,3 +410,10 @@ Diversos estudios han señalado que entre el 60% y el 80% de los proyectos de so
 ### Considera...
 que la calidad no es una fase, es una cultura.
 - Cada práctica contribuye a construir software robusto, mantenible y alineado con las necesidades del usuario.
+
+## Ejemplos visuales de buenas prácticas
+- Pipeline CI/CD con Jenkins y GitHub Actions.
+- Matriz de pruebas automatizadas (unitarias, integración, UI).
+- Flujo de revisión de código con `pull requests`.
+- Tablera Kanban para gestión ágil.
+
