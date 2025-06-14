@@ -417,3 +417,4 @@ que la calidad no es una fase, es una cultura.
 - Flujo de revisión de código con `pull requests`.
 - Tablera Kanban para gestión ágil.
 
+## ¿Qué tan seguro estás de que tu software funciona correctamente... sin haberlo probado?
