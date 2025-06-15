@@ -418,3 +418,12 @@ que la calidad no es una fase, es una cultura.
 - Tablera Kanban para gestión ágil.
 
 ## ¿Qué tan seguro estás de que tu software funciona correctamente... sin haberlo probado?
+
+## Pruebas
+Las pruebas intentan demostrar que un programa hace lo que se intenta que haga, así como descubrir defectos en el programa antes de usarlo.
+- Validación: Se ocupa de controlar si el producto satisface los requerimientos del usuario.
+- Verificación: Implica comprobar que el software cumpla con su funcionalidad y con los requerimientos no funcionales establecidos.
+
+### Conceptos
+Una prueba de software es todo proceso orientado a comprobar la calidad del software mediante la identificación de fallos en el mismo.
+Un caso de pruebas es un conjunto de entradas, condiciones de ejecución y resultados esperados que han sido desarrollados para un objetivo particular.
