@@ -427,3 +427,15 @@ Las pruebas intentan demostrar que un programa hace lo que se intenta que haga, 
 ### Conceptos
 Una prueba de software es todo proceso orientado a comprobar la calidad del software mediante la identificación de fallos en el mismo.
 Un caso de pruebas es un conjunto de entradas, condiciones de ejecución y resultados esperados que han sido desarrollados para un objetivo particular.
+
+### Etapas de las pruebas
+Las pruebas se realizan en cuantro etapas:
+- Prueba de unidades (prueba de métodos y clases).
+- Prueba de integración o de subsistemas.
+- Prueba de sistema.
+- Prueba de validación (o de aceptación).
+
+### Ejemplo - Windows 10 Update (2020)
+- Fallos por pryebas insuficientes de compatibilidad.
+- Causó pérdidad de archivos personales en algunas actualizaciones.
+- Generó mala prensa y pérdida de confianza.
