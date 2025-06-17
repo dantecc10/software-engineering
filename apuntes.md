@@ -439,3 +439,10 @@ Las pruebas se realizan en cuantro etapas:
 - Fallos por pryebas insuficientes de compatibilidad.
 - Causó pérdidad de archivos personales en algunas actualizaciones.
 - Generó mala prensa y pérdida de confianza.
+
+## Importancia de una estrategia de pruebas
+- Las pruebas deben cubrir desde los más pequeño (función) hasta lo más grande (todo el sistema).
+- No basta con probar una vez.
+
+
+### ¿Confías lo suficiente en tu código como para que lo usen miles de personas sin que falle?
