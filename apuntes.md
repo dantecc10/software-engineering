@@ -10,7 +10,7 @@ software.
 - Desarrollo de software con calidad profesional.
 - Reducción.
 
-# Contenido General del Curso
+## Contenido General del Curso
 
 - Introducción a la Ingeniería de Software.
 - Modelos de Proceso de Desarrollo.
@@ -19,7 +19,7 @@ software.
 - Pruebas y Mantenimiento.
 - Herramientas CASE.
 
-# Criterios de evaluación
+## Criterios de evaluación
 | Criterios de evaluación | |
 |---|---|
 | Actividades | 25% |
