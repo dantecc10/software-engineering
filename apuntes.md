@@ -250,5 +250,6 @@ Evitar inconsistencias (ej. cambiar el nombde de una materia en múltiples
 columnas)
 
 ## Implementación
+
 Traducción del diseño lógico a código SQL en un sistema de gestión de bases
 de datos.
