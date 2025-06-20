@@ -183,4 +183,72 @@ Utiliza modelos de entidad-relación, normalización.
 
 Ejemplo: Tabla de usuarios, reservas, clases.
 
+# Estructura de contenidos
 
+Es la forma en que se agrupa, clasifica y jerarquiza la información.
+Puede ser jerárquica, secuencial, matricial o temática.
+
+Ejemplo:
+En un sistema de biblioteca digital-
+- Jerárquico -> Libros -> Categoría -> Subcategoría -> Título
+- Temático -> Libros por temas
+
+
+# Sistemas de navegación
+Permiten al usuario desplazarse dentro del sistema o sitio.
+Incluyen menús, enlaces, rutas de navegación y accesos directos
+
+Ejemplo:
+- Migajas de pan: Inicio > Cursos > Ingeniería de Software > Unidad
+
+# Sistemas de rotulado
+
+Son las palabras, íconos o frases utilizadas para representar la información.
+Deben ser claros, consistentes y comprensibles.
+
+# Sistemas de búsqueda y recuperación
+Mecanismos que permiten encontrar contenido específico mediante palaras clave,
+filtros o categorización
+
+En una tineda online
+
+- Búsqueda por nombre, categoría precio
+- Filtro: precio mínimo, máximo, disponibilidad, marca
+
+# ¿Qué es el diseño de bases de datos?
+Proceso de definir la estructura lógica para el almacenamiento de datos.
+Incluye identificación.
+
+## Etapas del diseño de bases de datos
+- Recoleción de requerimientos
+- Modelo entidad-relación
+- Conversión al modelo relacional
+- Normalización
+- Implementación
+
+## Diseño Conceptual (modelo ER)
+Es una representación gráfica abastracta de la información usando entidades,
+atributos y relaciones.
+
+Ejemplo:
+- Entidades: Alumno, Materia, Profesor, Calificación
+
+## Diseño lógico
+
+Transforma el modelo ER en tablas relacionales que se implementarán en una
+base de datos.
+(Se crean tablas)
+
+## Normalización
+
+Proceso para eliminar redundancias y dependencias no deseadas dividiendo tablas o reestructurándolas en formas normales (1FN, 2FN, 3FN, ...)
+
+Si en una tabla "Alumno" hay múltiples columnas como materia_1, materia_2,
+ etc., debe separarse esa información en una tabla aparte llamada
+inscripciones.
+Evitar inconsistencias (ej. cambiar el nombde de una materia en múltiples 
+columnas)
+
+## Implementación
+Traducción del diseño lógico a código SQL en un sistema de gestión de bases
+de datos.
