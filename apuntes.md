@@ -446,3 +446,22 @@ Las pruebas se realizan en cuantro etapas:
 
 
 ### ¿Confías lo suficiente en tu código como para que lo usen miles de personas sin que falle?
+
+### Pruebas por conocimiento del código
+- Caja blanca: conoce la lógica del software
+- Caja negra: se enfoca en entradas y salidas sin concoer el código
+- Caja gris: combina ambos enfoques para mayor cobertura
+
+La caja blanca usa herramientas con o combertura de flujo, ejecuta pruebas que abarquen cada rama del código y su técnica usada es el análisis del flujo de control
+
+La caja negra emplea las técnicas partición de equivalencia, valores límites.
+
+La caja gris se suele emplear en la integración de frontend y backend o validación de API's con conocimiento parcial del backend.
+
+## Pruebas por niveles
+1.- Pruebas unitarias
+2.- Pruebas de integración
+3.- Pruebas funcionales
+4.- Pruebas de rendimiento
+5.- Pruebas de aceptación
+6.- Pruebas de instalación
