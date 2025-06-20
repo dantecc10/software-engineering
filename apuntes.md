@@ -467,12 +467,14 @@ La caja gris se suele emplear en la integración de frontend y backend o validac
 6.- Pruebas de instalación
 
 ## Pruebas unitarias
-Validan funciones, métodos o compoenentes individuales
-Se realizan por desarrollandores y verifican que una función de cálculo retorne el resultado correcto, por ejemplo
+- Validan funciones, métodos o compoenentes individuales
+- Se realizan por desarrollandores
+- Verifican que una función de cálculo retorne el resultado correcto, por ejemplo
 
 
-Integración
+## Pruebas de integración
 
 - Validan la interacción entre módulos o servicios.
 - Se aseguran de que los datos fluyen correctamente
 
+## PRUEBAS DE 
