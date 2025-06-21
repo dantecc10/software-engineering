@@ -467,14 +467,62 @@ La caja gris se suele emplear en la integración de frontend y backend o validac
 6.- Pruebas de instalación
 
 ## Pruebas unitarias
-- Validan funciones, métodos o compoenentes individuales
-- Se realizan por desarrollandores
-- Verifican que una función de cálculo retorne el resultado correcto, por ejemplo
+- Validan funciones, métodos o componentes individuales.
+- Se realizan por desarrolladores.
+- Verifican que una función de cálculo retorne el resultado correcto, por ejemplo.
 
 
 ## Pruebas de integración
-
 - Validan la interacción entre módulos o servicios.
-- Se aseguran de que los datos fluyen correctamente
+- Se aseguran de que los datos fluyen correctamente.
 
-## PRUEBAS DE 
+## Pruebas de sistema - funcionales
+Evalúan 
+
+## Pruebas de sistema - rendimiento
+- Miden la velocidad, capacidad y estabilidad del sistema.
+- Se realizan con herramientas como JMeter o Gatling.
+
+## Pruebas de aceptación
+Validan que el sistema satisface los criterios del cliente.
+Se realizan junto con el usuario final.
+
+
+
+
+Verifican qu el software se puede instalar y configurar correctamente
+Se prueban rutas, pemisos dependencias y configuración,
+
+
+
+
+
+
+## Clasificación de las técnicas de pruebas
+|Base de clasificación|Técnicas específicas|
+|---|---|
+| Técnicas basadas en la intuición y experiencia | Prueba ad hoc / Pruebas por exploración |
+| Técnicas basadas en la especificación | Partición de equivalencia / Análisis de valores límite / Pruebas de robustez / Tablas de decisión / Pruebas basadas en máquinas de estado finito / Pruebas basadas en especificaciones formales / Pruebas aleatorias |
+| Técnicas basadas en el código  | Pruebas de cobertura basadas en flujo de control / Pruebas de cobertura basadas en flujo de datos |
+| Técnicas basadas en errores  | Pruebas de conjetura de errores / Pruebas de mutación |
+| Técnicas estáticas | Pruebas de sala ímpia|
+| Técnicas ||
+
+
+1.- Técnicas de diseño de casos de prueba
+- Particiones de equivalencia.
+- Divide las entradas en grupos que se comparten de forma similar.
+- Reduce el número de casos sin perder efectividad.
+
+2.- Análisis de valores límite
+- Se basa en los errores que suelen ocurrir en los bordes de las entradas válidas.
+- Límite inferior/superior y sus alrededores.
+
+3.- Robustez
+- Evalúan cómo responde el sistema ante entradas incorrectas o inesperadas.
+- Validar que el sistema no colapse y brinde mensajes adecuados.
+
+4.- Tablas de decisión
+- Usadas cuando hay múltiples condiciones y sus combinaciones.
+
+5.-
