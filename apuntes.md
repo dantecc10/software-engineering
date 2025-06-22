@@ -525,4 +525,13 @@ Se prueban rutas, pemisos dependencias y configuración,
 4.- Tablas de decisión
 - Usadas cuando hay múltiples condiciones y sus combinaciones.
 
-5.-
+5.- Pruebas basadas en máquinas de estado finito.
+- Se modela el sistema como una serie de estados y transiciones.
+- Se verifica que las transiciones ocurran correctamente.
+
+6.- Pruebas basadas en especificaciones formales
+- Derivan casos de prueba a apartir de especificaciones matemáticas o lógicas
+
+7.- Pruebas aleatorias
+- Se generan entradas al azar dentro de un rango permitido.
+- Útiles para probar robustez o encontrar errores inesperados.
