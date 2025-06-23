@@ -535,3 +535,5 @@ Se prueban rutas, pemisos dependencias y configuración,
 7.- Pruebas aleatorias
 - Se generan entradas al azar dentro de un rango permitido.
 - Útiles para probar robustez o encontrar errores inesperados.
+
+### Pregunta: ¿Tus pruebas actuales están diseñadas pensando en el código o en el usuario final que lo utilizará?
