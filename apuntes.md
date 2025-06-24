@@ -537,16 +537,16 @@ Se basan en principios ergonómicos, modelos de desempeño humano y métodos de 
 
 ## Métodos de evaluación
 
-Cualitativos; Se basan en observaciones y entrevistas para comprender la experiencia de usuario
-Cuantitativos: Utilizan métricas objetivas como tiempos de respuesta y número de errores
+Cualitativos; Se basan en observaciones y entrevistas para comprender la experiencia de usuario.
+Cuantitativos: Utilizan métricas objetivas como tiempos de respuesta y número de errores.
 
 
 Los métodos cualitativos buscan comprender cómo y por qué los usuarios interactúan con un sistema.
 Se enfocan en la experiencia subjetiva, percepción y comportamiento de los usuarios.
-- Entrevistas en profundidad
+- Entrevistas en profundidad.
 
 
 Los métodos cuantitativos miden la interacción con el sistema usando datos numéricos. Permiten identificar tendenecias y patrones en la experiencia del usuario.
-- Tiempos de ejecución de tareas
-- Número de errores cometidos
-- Análisis de registros
+- Tiempos de ejecución de tareas.
+- Número de errores cometidos.
+- Análisis de registros.
