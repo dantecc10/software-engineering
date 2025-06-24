@@ -471,7 +471,6 @@ La caja gris se suele emplear en la integración de frontend y backend o validac
 - Se realizan por desarrolladores.
 - Verifican que una función de cálculo retorne el resultado correcto, por ejemplo.
 
-
 ## Pruebas de integración
 - Validan la interacción entre módulos o servicios.
 - Se aseguran de que los datos fluyen correctamente.
@@ -487,15 +486,9 @@ Evalúan
 Validan que el sistema satisface los criterios del cliente.
 Se realizan junto con el usuario final.
 
-
-
-
-Verifican qu el software se puede instalar y configurar correctamente
+## Pruebas de instalación
+Verifican que el software se puede instalar y configurar correctamente
 Se prueban rutas, pemisos dependencias y configuración,
-
-
-
-
 
 
 ## Clasificación de las técnicas de pruebas
@@ -505,7 +498,7 @@ Se prueban rutas, pemisos dependencias y configuración,
 | Técnicas basadas en la especificación | Partición de equivalencia / Análisis de valores límite / Pruebas de robustez / Tablas de decisión / Pruebas basadas en máquinas de estado finito / Pruebas basadas en especificaciones formales / Pruebas aleatorias |
 | Técnicas basadas en el código  | Pruebas de cobertura basadas en flujo de control / Pruebas de cobertura basadas en flujo de datos |
 | Técnicas basadas en errores  | Pruebas de conjetura de errores / Pruebas de mutación |
-| Técnicas estáticas | Pruebas de sala ímpia|
+| Técnicas estáticas | Pruebas de sala ímpia |
 | Técnicas ||
 
 
