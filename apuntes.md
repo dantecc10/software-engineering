@@ -563,7 +563,13 @@ Interfaz de calidad
 
 
 # Documentación
+Conjunto de artefactos que describen la arquitectura, uso y mantenimiento de un sistema.
 
+Incluye los manuales.
+
+- Documentación técnica para desarrolladores (diagramas, UML).
+- Documentación de usuario (guías, tutoriales para las personas).
+- Documentación de mantenimiento (bitácoras de cambio, historial de versiones).
 
 # Mantenimiento
 
@@ -592,4 +598,5 @@ Ajusta el software a cambios en el entorno técnico y a nuevas plataformas o tec
 - Aplicar pruebas continuas (CI/CD)
 - Usar comentarios significativos en el código
 - Priorizar mantenimiento y escalabilidad
+
 
