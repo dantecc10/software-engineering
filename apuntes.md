@@ -550,3 +550,39 @@ Los métodos cuantitativos miden la interacción con el sistema usando datos num
 - Tiempos de ejecución de tareas.
 - Número de errores cometidos.
 - Análisis de registros.
+
+CSUQ
+
+Confiable
+Simple
+Alta correlación con los resultados (.94)
+19 preguntas estructuradas en 4 grupos
+Uso del sistema SYSUSE-Q1 a 8
+Calidad e la información
+Interfaz de calidad
+
+
+# Documentación
+
+## Mantenimiento correctivo
+Repara errorees luego de detectar fallos.
+## Mantenimiento evolutivo
+Agrega funciones por solicitud del usuario o nuevas necesidades del mercado.
+## Mantenimiento perfectivo
+Mejora el rendimiento, eficiencia o usabilidad sin cambiar la funcionalidad básica.
+## Mantenimiento adaptativo
+Ajusta el software a cambios en el entorno técnico.
+
+
+# Formatos estandarizados de la dpcumentación
+- IEEE 829: documentación de pruebas
+- ISO/IEC 12207: procesos del ciclo de vida del software
+- IEEE 830: especificación de requisitos
+- Control de versiones semver (v1.2.3)
+
+## Consejos para el software de calidad
+- Documentar desde el análisis
+- Usar control de versiones
+- Aplicar pruebas continuas (CI/CD)
+- Usar comentarios significativos en el código
+- Priorizar mantenimiento y escalabilidad
