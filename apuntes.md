@@ -564,17 +564,23 @@ Interfaz de calidad
 
 # Documentación
 
+
+# Mantenimiento
+
 ## Mantenimiento correctivo
 Repara errorees luego de detectar fallos.
+
 ## Mantenimiento evolutivo
 Agrega funciones por solicitud del usuario o nuevas necesidades del mercado.
+
 ## Mantenimiento perfectivo
-Mejora el rendimiento, eficiencia o usabilidad sin cambiar la funcionalidad básica.
+Mejora el rendimiento, eficiencia o usabilidad sin cambiar la funcionalidad básica, ya sea por decisión técnica o experiencia UX.
+
 ## Mantenimiento adaptativo
-Ajusta el software a cambios en el entorno técnico.
+Ajusta el software a cambios en el entorno técnico y a nuevas plataformas o tecnologías.
 
 
-# Formatos estandarizados de la dpcumentación
+# Formatos estandarizados de la documentación
 - IEEE 829: documentación de pruebas
 - ISO/IEC 12207: procesos del ciclo de vida del software
 - IEEE 830: especificación de requisitos
@@ -586,3 +592,4 @@ Ajusta el software a cambios en el entorno técnico.
 - Aplicar pruebas continuas (CI/CD)
 - Usar comentarios significativos en el código
 - Priorizar mantenimiento y escalabilidad
+
