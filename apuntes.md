@@ -599,4 +599,3 @@ Ajusta el software a cambios en el entorno técnico y a nuevas plataformas o tec
 - Usar comentarios significativos en el código
 - Priorizar mantenimiento y escalabilidad
 
-f
